@@ -1,1 +1,3 @@
-lipsum ~how_what(5 words)
+lipsum ~how_what(10 words)
+lorem ipsum ~how_what(10 words)
+~how_what(10 paragraphs) of lorem ipsum
