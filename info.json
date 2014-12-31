@@ -2,7 +2,7 @@
     "name": "lipsum",
     "displayName": "Lorem Ipsum",
     "description": "Generates text",
-    "examples": ["lorem ipsum 5 words", "lipsum 2 paras", "li 16 bytes", "li 3 lists", "li 10p"],
+    "examples": ["lipsum 5 words", "lipsum 2 paras", "lipsum 2p", "lipsum 16 bytes", "lorem 3 lists"],
     "categories": ["Utilities"],
     "creator_name": "Anton Vakhmin",
     "creator_url": "https://github.com/LastDanmer"
